@@ -20,7 +20,7 @@ I have mainly focused on two parts now:
 
 ![App preview](doc/AppPreview.gif)
 
-[![Get it on Google Play](doc/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.interestinate.flutter_package_manager_)
+[![Get it on Google Play](doc/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.interestinate.flutter_package_manager)
 
 ## Version history
 
